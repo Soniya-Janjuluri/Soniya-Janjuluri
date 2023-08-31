@@ -1,0 +1,2 @@
+Hello Everyone,Iam Soniya Janjuluri presently working in Techieyan Technologies as an Electronics Hardware and Software Engineer,Hyderabad.Iam very strong at Digital RTL designing and system verilog, PCB designing using EDA tools,Antenna designing using Ansys HFSS,Analog Cmos designing in Cadence Virtuoso, Matlab/Simulink.
+Here i came here to start the journey of 100 days of RTL designing in verilog.
